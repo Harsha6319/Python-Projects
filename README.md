@@ -1,6 +1,6 @@
-# Project Title
+# Python Projects
 
-A short description of what your Python project does.
+A short description of what my Python project does.
 
 ## How to Run Locally
 
